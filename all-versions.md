@@ -25,7 +25,7 @@ For this tutorial, we will be adding recipients to our mailing list from a custo
 ### Stable version users
 Create a custom member filter called "Premium members" in advance. A detailed guide on how to do this can be found in [Tutorial: Using custom member filters](/docs/tutorials/using-custom-member-filters/).
 
-### Beta/RC users
+### Beta/RC users [[::.version_brc]]
 Coose one of the following options:   
 - Create a custom member filter called "Premium members" in advance. A detailed guide on how to do this can be found in [Tutorial: Using custom member filters](/docs/tutorials/using-custom-member-filters/).
 - Create the filter during the notification setup. (See "[New filter (Beta/RC only)](#b-new-filter-betarc-only)" section below.)
